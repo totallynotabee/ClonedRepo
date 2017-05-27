@@ -6,7 +6,7 @@ public class TheBrain {
 		System.out.println("does it work?");
 		System.out.println("So far, so good...");
 		System.out.println("Testing GitHub Commits");
-		System.out.println("Scott Kistenmacher");
+		System.out.println("Scott_Kistenmacher");
 		// add more
 	}
 }
