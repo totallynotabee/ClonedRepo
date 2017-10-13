@@ -6,5 +6,7 @@ public class TheBrain {
 		System.out.println("does it work?");
 		System.out.println("So far, so good...");
 		// add more
+		
+		System.out.println("Making some changes to commit...");
 	}
 }
