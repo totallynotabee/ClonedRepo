@@ -7,5 +7,6 @@ public class TheBrain {
 		System.out.println("So far, so good...");
 		// add more
 		System.out.println("Hello World");
+		System.out.println("Bye");
 	}
 }
