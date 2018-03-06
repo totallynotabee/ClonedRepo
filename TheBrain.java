@@ -8,5 +8,6 @@ public class TheBrain {
 		System.out.println("So far, so good...");
 		// add more
 		System.out.println("What is your spaghetti policy here?");
+		System.out.println("Trees! Everywhere, trees!");
 	}
 }
