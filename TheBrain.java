@@ -9,5 +9,8 @@ public class TheBrain {
 		// add more
 
 		System.out.println("Is this right");
+
+		System.out.println("Hello from CIS152!");
+		//Nikki McCloud
 	}
 }
