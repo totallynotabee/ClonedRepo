@@ -10,6 +10,8 @@ public class TheBrain {
 
 		System.out.println("Is this right");
 
-		System.out.println("Jacob Tunning's Changes")
+		System.out.println("Jacob Tunning's")
+		System.out.println("Changes")
+
 	}
 }
