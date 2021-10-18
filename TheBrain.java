@@ -9,5 +9,7 @@ public class TheBrain {
 		// add more
 
 		System.out.println("Is this right");
+		
+		System.out.println("What are we gonna do today, Brain?");
 	}
 }
