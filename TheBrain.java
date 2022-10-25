@@ -7,6 +7,8 @@ public class TheBrain {
 
 		System.out.println("So far, so good...");
 		// add more
+		
+		System.out.print("Brand new");
 
 		System.out.println("Is this right");
 	}
